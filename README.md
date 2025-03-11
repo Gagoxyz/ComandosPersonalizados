@@ -66,7 +66,7 @@ A partir del documento XML generado en el Producto 4, se desarrollará una hoja 
 3. Ejecutar los productos siguiendo las instrucciones específicas de cada uno.
 
 ## Autor
-Este proyecto ha sido desarrollado como parte de un proceso de aprendizaje y aplicación de programación en C para la administración de sistemas.
+Este proyecto ha sido desarrollado como parte de un proceso de aprendizaje y aplicación de programación en C para la administración de sistemas.  
 Realizado por David Gago.
 
 ## Licencia
