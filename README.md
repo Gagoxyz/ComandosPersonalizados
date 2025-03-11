@@ -5,7 +5,7 @@ Este repositorio contiene una serie de productos desarrollados en lenguaje C, cu
 
 ## Productos
 
-### Producto 1: Configuración del Entorno de Desarrollo
+### Producto 1: Tutoriales para entrar en materia
 **Objetivo:**
 - Instalar un entorno de desarrollo y adquirir un dominio mínimo de sus herramientas.
 
@@ -17,7 +17,7 @@ Se requiere preparar el entorno de desarrollo en Visual Studio para crear aplica
 
 ---
 
-### Producto 2: Edición de Archivos de Texto desde la Consola
+### Producto 2: Adquiriendo las destrezas básicas
 **Objetivo:**
 - Desarrollar una pequeña aplicación en C.
 - Adquirir destrezas en la edición de archivos de texto y ejecución de comandos en la consola de Windows.
@@ -27,7 +27,7 @@ Se desarrollará una aplicación de consola en C para la edición y manipulació
 
 ---
 
-### Producto 3: Modificación de la Configuración de Red
+### Producto 3: Automatización básica de la administración de un sistema operativo
 **Objetivo:**
 - Desarrollar una aplicación que modifique la configuración de red, cambiando el servidor DNS de la máquina por el más rápido entre los testeados.
 
@@ -36,7 +36,7 @@ La aplicación seleccionará un adaptador de red de una lista y comparará los t
 
 ---
 
-### Producto 4: Generación de un Archivo XML con Configuración del Sistema
+### Producto 4: Estableciendo las bases de la integración de aplicaciones mediante la generación de un archivo XML
 **Objetivo:**
 - Desarrollar una aplicación en C que genere un archivo XML con diversas configuraciones de la máquina local.
 
@@ -45,7 +45,7 @@ Esta aplicación recopilará información de distintas máquinas en la red y gen
 
 ---
 
-### Producto 5: Transformación y Presentación del XML
+### Producto 5: Transformación de un archivo XML mediante una hoja de estilo XSLT
 **Objetivo:**
 - Crear una hoja de estilo para la transformación y presentación de un archivo XML.
 
@@ -54,8 +54,7 @@ A partir del documento XML generado en el Producto 4, se desarrollará una hoja 
 
 ## Requisitos del Proyecto
 - **Lenguaje de Programación:** C
-- **Entorno de Desarrollo:** Visual Studio
-- **Sistema Operativo:** Windows
+- **Entorno de Desarrollo:** Visual Studio 2022
 - **Herramientas Adicionales:** XSLT para la transformación de XML (Producto 5)
 
 ## Instalación y Uso
@@ -68,6 +67,7 @@ A partir del documento XML generado en el Producto 4, se desarrollará una hoja 
 
 ## Autor
 Este proyecto ha sido desarrollado como parte de un proceso de aprendizaje y aplicación de programación en C para la administración de sistemas.
+Realizado por David Gago.
 
 ## Licencia
 Este proyecto se distribuye bajo la licencia MIT. Para más información, consulta el archivo `LICENSE`.
